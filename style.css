@@ -1,0 +1,192 @@
+body{
+    display: flex;
+    justify-content: start;
+    position: relative;
+    background-image: url(—Pngtree—shiny\ reflective\ white\ round\ ball_1347548.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+        width: 100px;
+}
+.container {
+    display: flex;
+    justify-content: start;
+    justify-items: start;
+    background-color: #EFF0F1;
+    width: 95%;
+    height: 580px;
+    position: absolute;
+    top: 140px;
+    left: 30px;
+    border-radius: 15px;
+
+}
+.container h1{
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: absolute;
+    top: 23px;
+    left: 54px;
+    
+
+}
+.top{
+    position: absolute;
+    top: 85px;
+    left: 50px;
+   
+}
+button{
+   height:40px;
+   width: 80px;
+   background-color: white;
+   border:none;
+   border-radius: 9px;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+   size: 20px;
+}
+.photo{
+    border-radius: 15px;
+    width: 300px;
+    height: 220px;
+    position: absolute;
+    left: 25px;
+}
+.photosss1{
+    border-radius: 10px;
+    width: 80px;
+    height: 60px;
+    position: absolute;
+    top:250px;
+    left: 25px;
+}
+.photosss2{
+    border-radius: 10px;
+    width: 80px;
+    height: 60px;
+    position: absolute;
+    top:250px;
+    left: 135px;
+}
+.photosss3{
+    border-radius: 10px;
+    width: 80px;
+    height: 60px;
+    position: absolute;
+    top:250px;
+    left: 245px;
+}
+.peoplestyle{
+    background-color: white;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    top: 290px;
+    left: 70px;
+}
+.nature1{
+    border-radius: 15px;
+    width: 300px;
+    height: 220px;
+    position: absolute;
+    left: 25px;
+}
+.nature2{
+    border-radius: 10px;
+    width: 80px;
+    height: 60px;
+    position: absolute;
+    top:250px;
+    left: 25px;
+}
+.nature3{
+    border-radius: 10px;
+    width: 80px;
+    height: 60px;
+    position: absolute;
+    top:250px;
+    left: 135px;
+}
+.nature4{
+    border-radius: 10px;
+    width: 80px;
+    height: 60px;
+    position: absolute;
+    top:250px;
+    left: 245px;
+}
+.naturestyle{
+    background-color: white;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    top: 290px;
+    left: 520px;
+}
+.history1{
+    border-radius: 15px;
+    width: 300px;
+    height: 220px;
+    position: absolute;
+    left: 25px;
+}
+.history2{
+    border-radius: 10px;
+    width: 80px;
+    height: 60px;
+    position: absolute;
+    top:250px;
+    left: 25px;
+}
+.history3{
+    border-radius: 10px;
+    width: 80px;
+    height: 60px;
+    position: absolute;
+    top:250px;
+    left: 135px;
+}
+.history4{
+    border-radius: 10px;
+    width: 80px;
+    height: 60px;
+    position: absolute;
+    top:250px;
+    left: 245px;
+}
+.historystyle{
+    background-color: white;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    top: 290px;
+    left: 970px;
+}
+.text{
+    position: absolute;
+    bottom:10px;
+    left: 25px;  
+}
+.number{
+    position: absolute;
+    bottom: 10px;
+    right: 45px;  
+}
+.icon{
+   width: 15px;
+    position: absolute;
+    top: 328px;
+    right: 75px;  
+}
